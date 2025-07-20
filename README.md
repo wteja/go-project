@@ -2,6 +2,8 @@
 
 This repository is a collection of my side projects and experiments written in Go. It serves as a workspace for learning, prototyping, and building various tools and applications using the Go programming language.
 
+![Go Gopher](gopher.jpg)
+
 ## Structure
 
 Each subdirectory contains an individual project. For example:
