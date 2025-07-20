@@ -1,7 +1,8 @@
 # Task Tracker CLI
 
 A simple command-line tool for managing tasks, written in Go.
-Other Projects: https://github.com/wteja/go-project
+
+This project is the solution for [This Project](https://roadmap.sh/projects/task-tracker)
 
 ## Features
 - Add, update, delete tasks
