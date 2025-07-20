@@ -8,7 +8,7 @@ This repository is a collection of my side projects and experiments written in G
 
 Each subdirectory contains an individual project. For example:
 
-- `task-tracker-cli/` — A simple CLI tool for managing tasks
+- `task-tracker-cli/` — A simple CLI tool for managing tasks — [Requirements](https://roadmap.sh/projects/task-tracker)
 
 More projects and experiments will be added over time.
 
@@ -20,9 +20,6 @@ git clone https://github.com/wteja/go-projects.git
 ```
 
 Navigate to a project directory and follow its README for setup and usage instructions.
-
-# Reference Project Ideas
-[Task Tracker](https://roadmap.sh/projects/task-tracker)
 
 ## License
 
