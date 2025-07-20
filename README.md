@@ -19,6 +19,9 @@ git clone https://github.com/wteja/go-projects.git
 
 Navigate to a project directory and follow its README for setup and usage instructions.
 
+# Reference Project Ideas
+[Task Tracker](https://roadmap.sh/projects/task-tracker)
+
 ## License
 
 See the [LICENSE](LICENSE) file for details.
