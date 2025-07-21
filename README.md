@@ -9,6 +9,7 @@ This repository is a collection of my side projects and experiments written in G
 Each subdirectory contains an individual project. For example:
 
 - `task-tracker-cli/` — A simple CLI tool for managing tasks — [Requirements](https://roadmap.sh/projects/task-tracker)
+- `github-activity/` — Use GitHub API to fetch user activity and display it in the terminal — [Requirements](https://roadmap.sh/projects/github-user-activity)
 
 More projects and experiments will be added over time.
 
